@@ -1,0 +1,6 @@
+<launch>
+    <rosparam file="$(find ur10_moveit_config)/config/params.yaml" command="load"/>
+    <node name="ur10_server_endpoint" pkg="ur10_moveit_config" type="ur10_server_endpoint.py" args="--wait" output="screen" respawn="true" />
+    <node name="ur10_mover" pkg="ur10_moveit_config" type="ur10_mover.py" args="--wait" output="screen"/>
+    <include file="$(find ur10_moveit_config)/launch/demo.launch" />
+</launch>

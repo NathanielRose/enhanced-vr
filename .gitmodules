@@ -1,0 +1,19 @@
+[submodule "unity/pick_and_place/ROS/src/niryo_one_ros"]
+	path = unity/pick_and_place/ROS/src/niryo_one_ros
+	url = https://github.com/NiryoRobotics/niryo_one_ros.git
+[submodule "unity/pick_and_place/ROS/src/moveit_msgs"]
+	path = unity/pick_and_place/ROS/src/moveit_msgs
+	url = https://github.com/ros-planning/moveit_msgs.git
+[submodule "unity/pick_and_place/ROS/src/ros_tcp_endpoint"]
+	path = unity/pick_and_place/ROS/src/ros_tcp_endpoint
+	url = https://github.com/Unity-Technologies/ROS-TCP-Endpoint.git
+[submodule "ros/catkin_ws/src/universal_robot"]
+	path = ros/catkin_ws/src/universal_robot
+	url = https://github.com/ros-industrial/universal_robot.git
+	branch = kinetic-devel
+[submodule "ros/catkin_ws/src/ROS-TCP-Endpoint"]
+	path = ros/catkin_ws/src/ROS-TCP-Endpoint
+	url = https://github.com/Unity-Technologies/ROS-TCP-Endpoint.git
+[submodule "ros/catkin_ws/src/moveit_msgs"]
+	path = ros/catkin_ws/src/moveit_msgs
+	url = https://github.com/ros-planning/moveit_msgs.git

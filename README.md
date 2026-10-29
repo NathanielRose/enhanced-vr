@@ -28,6 +28,12 @@ The full thesis is in [`docs/Enhance_VR_Context_Aware_Robot_with_Eye_Selection_M
 
 ## Experiment videos
 
+
+
+https://github.com/user-attachments/assets/d6818c49-963c-4500-97b5-25a7f095524d
+
+
+
 [![Watch the short demo](docs/figures/demo_poster.jpg)](docs/EnhanceVR_Demo_short.mp4)
 
 - **Short demo (15 s, 1080p):** [`docs/EnhanceVR_Demo_short.mp4`](docs/EnhanceVR_Demo_short.mp4). A participant gaze-selects the target block and the UR10 picks and places it, shown from the Unity editor and through the headset's stereo feed.
